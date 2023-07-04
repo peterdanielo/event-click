@@ -1,3 +1,4 @@
+// js
 const cores = document.querySelectorAll('.cores ul li');
 const corSelecionada = document.querySelector('.cor-selecionada');
 
