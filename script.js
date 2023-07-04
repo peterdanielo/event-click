@@ -1,4 +1,4 @@
-// js
+// js para alterar cores
 const cores = document.querySelectorAll('.cores ul li');
 const corSelecionada = document.querySelector('.cor-selecionada');
 
