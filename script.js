@@ -16,4 +16,4 @@ cores.forEach((cor) => {
   cor.addEventListener('click', () => {
     handleSelecionaCor(cor);
   });
-})
+});
